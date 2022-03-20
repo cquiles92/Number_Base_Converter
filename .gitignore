@@ -1,0 +1,29 @@
+# Project exclude paths
+/.gradle/
+/Number Base Converter/task/build/
+/Topics/The List interface/Equal lists/out/
+/Topics/The List interface/Equal lists/out/production/classes/
+/Topics/The List interface/Filtering the list/out/
+/Topics/The List interface/Filtering the list/out/production/classes/
+/Topics/The List interface/Greek letters/out/
+/Topics/The List interface/Greek letters/out/production/classes/
+/Topics/The List interface/Implementations/out/
+/Topics/The List interface/Implementations/out/production/classes/
+/Topics/The List interface/Mutable lists/out/
+/Topics/The List interface/Mutable lists/out/production/classes/
+/Topics/The List interface/Replacing ArrayList with LinkedList/out/
+/Topics/The List interface/Replacing ArrayList with LinkedList/out/production/classes/
+/Topics/The List interface/Results of operations/out/
+/Topics/The List interface/Results of operations/out/production/classes/
+/Topics/The List interface/Select correct assignments/out/
+/Topics/The List interface/Select correct assignments/out/production/classes/
+/Topics/The List interface/Setting a new name/out/
+/Topics/The List interface/Setting a new name/out/production/classes/
+/Topics/The List interface/Similarities between lists and arrays/out/
+/Topics/The List interface/Similarities between lists and arrays/out/production/classes/
+/Topics/The List interface/Split a list into sublists/out/
+/Topics/The List interface/Split a list into sublists/out/production/classes/
+/Topics/The List interface/The longest string in the list/out/
+/Topics/The List interface/The longest string in the list/out/production/classes/
+/Topics/The List interface/Theory/out/
+/Topics/The List interface/Theory/out/production/classes/
